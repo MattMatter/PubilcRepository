@@ -6,6 +6,8 @@ that showing some of my work may compliment me talking about them in an intervie
 
 As I try to learn new things every day, this repository is likely to contain more and more projects as time progresses, whether they be complete or works-in-progress.
 
+This likely looks familiar as I remade that repository for this new account!
+
 I appreciate you taking the time to read this little forward and looking at the repository!
 
 -Matthew
